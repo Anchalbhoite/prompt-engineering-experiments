@@ -1,11 +1,15 @@
 # Prompt Engineering Experiments
 
-This repository documents experiments exploring how different prompt strategies influence the behavior of large language models.
+This repository documents 10 experiments exploring how different prompt strategies affect the behavior of large language models (LLMs).
 
-## Experiments Covered
+## Objectives
+- Evaluate prompt engineering techniques
+- Analyze LLM response quality
+- Identify strategies that improve reasoning and structure
 
-1. Role Prompting
-2. Few-shot Prompting
+## Prompt Strategies Tested
+1. Role prompting
+2. Few-shot prompting
 3. Chain-of-thought reasoning
 4. Output formatting control
 5. Hallucination reduction
@@ -15,6 +19,10 @@ This repository documents experiments exploring how different prompt strategies 
 9. Multi-step prompting
 10. Prompt injection testing
 
-## Objective
+## Tools Used
+- ChatGPT
+- Prompt analysis
+- Manual response evaluation
 
-The goal of this project is to analyze how prompt structure affects model accuracy, reasoning, and output quality.
+## Author
+Anchal – Prompt Engineering Experiments Project
